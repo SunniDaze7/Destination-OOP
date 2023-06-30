@@ -1,3 +1,5 @@
+const Plane = require('./Plane.js')
+
 class Airport {
 
 

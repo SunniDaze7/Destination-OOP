@@ -1,3 +1,5 @@
+const Bag = require('./Bag.js')
+
 class Person {
 
 
